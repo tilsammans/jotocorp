@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joost Baaij -- Owner -- joost@spacebabies.nl
+    Thomas Baaij -- Owner -- thomasbaaij@hotmail.com
+    Bigt -- De Bouwer -- bigt@sef.com
 
 # THANKS
 
-    <name>
+    All erdnuB maden
 
 # TECHNOLOGY COLOPHON
 
